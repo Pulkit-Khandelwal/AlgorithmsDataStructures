@@ -4,31 +4,38 @@ Algorithms and data structures implemented in Python
 Author: Pulkit Khandelwal
 Credits: https://github.com/donnemartin/interactive-coding-challenges
 
+***Goal***: To understand data structures and algorithms. Theoretically (with proofs where possible); making sure I have space an dtime complexity in place. Then, implementing each of them in Python. I have made sure that my OOPs is in place before that.
+
 
 General tips to keep in mind:
 * Always ask for clarification questions in prticular see for edge cases, test conditions, check for null conditions.
 * While coming up for solutions, speak your mind. List out all possible solution methods with their time and space complexity. Then, go ahead and write the best solution. Keep in mind to test for edge and null cases. Go step by step while writing your solution.
 * Always modularize your code. Ask if you can assume that boilerplate code has been provided or not. You can then go ahead and fill up the functions in your code.
+* The last step is to actually code the solution in Python by making sure you consider all test cases.
 
 
-Resources that I am using as if now:
+Resources that I am using as of now:
 
-* Python tricks book
-* Read the docs for Python OOPs
+* Read the docs for Python OOPs: Understand Object oriented Programming.
+* Python tricks book: As an evening read to write better Pythonic code.
 
-* 6.006 MIT
-* 6.046 MIT
 
-* CLRS
-* HackerRank Gayle's videos
+* 6.006 MIT and 6.046 MIT: I have gone through these courses' videos. They have given a very nice explnantion of concepts.
 
-* Interactive Coding Challenges in Python
-* Interview University Repo
-* HackerRank coding practice
+* CLRS: To understand the concepts clearly with proofs. I also get to see the pseudo code here. That way I can then go forward.
 
-* CTCI
+* HackerRank Gayle's videos: This set of videos gave me an idea of how to approach the problems as discussed above in the tips section and the level of questions one can expect in an interview.
 
-Implementations completed:
+* Interactive Coding Challenges in Python: To make sure each data structure and algorithm is implemented from scratch.
+* Interview University Repo: To supplement the above point.
+* HackerRank coding practice: To supplement the above point.
+
+* CTCI: For challenges after the above three steps are finished. To make things concrete. This should be the last step.
+
+Implementations and concepts completed:
+- Understood the concept theoretically wiht proofs if possible.
+- Implemented in Python.
+- Pinned down space and time complexity.
 
 - [ ] Singly Linked Lists (implemented by keeping track of head):
     - [x] create
@@ -43,10 +50,10 @@ Implementations completed:
 - [ ] Circular Linked Lists
 
 - [ ] Stacks
-
 - [ ] Queues
-
 - [ ] Hashmaps
+- [ ] Heaps
+- [ ] Priority Queue
 
 - [ ] Sorting
     - [ ] Bubble
@@ -60,7 +67,7 @@ Implementations completed:
     - [ ] Binary
     
 - [ ] Trees
-
 - [ ] Graphs
-
+- [ ] Recursion and Dynamic Programming
+- [ ] Tries
 
