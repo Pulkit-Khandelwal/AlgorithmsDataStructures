@@ -37,3 +37,30 @@ Implementations completed:
     - [x] add in front
     - [x] reverse
     - [x] remove duplicates
+    
+- [ ] Doubly Linked Lists
+
+- [ ] Circular Linked Lists
+
+- [ ] Stacks
+
+- [ ] Queues
+
+- [ ] Hashmaps
+
+- [ ] Sorting
+    - [ ] Bubble
+    - [ ] Insertion
+    - [ ] Selection
+    - [ ] Quick
+    - [ ] Merge
+    - [ ] Radix
+    
+- [ ] Searching
+    - [ ] Binary
+    
+- [ ] Trees
+
+- [ ] Graphs
+
+
