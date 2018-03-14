@@ -33,11 +33,12 @@ Resources that I am using as of now:
 * CTCI: For challenges after the above three steps are finished. To make things concrete. This should be the last step.
 
 Implementations and concepts completed:
-- Understood the concept theoretically wiht proofs if possible.
+- Understood the concept theoretically with proofs if possible.
 - Implemented in Python.
 - Pinned down space and time complexity.
 
 - [ ] Singly Linked Lists (implemented by keeping track of head):
+    - [x] calculate the size
     - [x] create
     - [x] insert
     - [x] delete
