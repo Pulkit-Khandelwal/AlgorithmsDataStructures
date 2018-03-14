@@ -30,9 +30,10 @@ Resources that I am using as if now:
 
 Implementations completed:
 
-[x] Singly Linked Lists:
-    create
-    insert
-    delete
-    reverse
-    remove duplicates
+- [ ] Singly Linked Lists:
+    - [x] create
+    - [x] insert
+    - [x] delete
+    - [x] add in front
+    - [x] reverse
+    - [x] remove duplicates
