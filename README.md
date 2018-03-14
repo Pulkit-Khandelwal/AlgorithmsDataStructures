@@ -6,4 +6,4 @@ Credits: https://github.com/donnemartin/interactive-coding-challenges
 
 
 General tips to keep in mind:
-* 
+**  
