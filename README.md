@@ -30,7 +30,7 @@ Resources that I am using as if now:
 
 Implementations completed:
 
-[ . ] Singly Linked Lists:
+[ ] Singly Linked Lists:
     create
     insert
     delete
