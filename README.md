@@ -3,6 +3,7 @@ Algorithms and data structures implemented in Python
 
 Author: Pulkit Khandelwal
 Credits: https://github.com/donnemartin/interactive-coding-challenges
+https://github.com/jwasham/coding-interview-university
 
 ***Goal***: To understand data structures and algorithms. Theoretically (with proofs where possible); making sure I have space an dtime complexity in place. Then, implementing each of them in Python. I have made sure that my OOPs is in place before that.
 
@@ -51,7 +52,17 @@ Implementations and concepts completed:
 - [ ] Circular Linked Lists
 
 - [ ] Stacks
+    - [x] implement using Singly LinkedList (keep trackof top)
+            - [x] push
+            - [x] pop
+            - [x] check if empty
+        
 - [ ] Queues
+    - [x] implement using Singly LinkedList (keep track of head and tail)
+            - [x] enqueue
+            - [x] dequeue
+
+
 - [ ] Hashmaps
 - [ ] Heaps
 - [ ] Priority Queue
