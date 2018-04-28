@@ -53,14 +53,14 @@ Implementations and concepts completed:
 
 - [ ] Stacks
     - [x] implement using Singly LinkedList (keep trackof top)
-            - [x] push
-            - [x] pop
-            - [x] check if empty
+    - [x] push
+    - [x] pop
+    - [x] check if empty
         
 - [ ] Queues
     - [x] implement using Singly LinkedList (keep track of head and tail)
-            - [x] enqueue
-            - [x] dequeue
+    - [x] enqueue
+    - [x] dequeue
 
 
 - [ ] Hashmaps
@@ -69,8 +69,8 @@ Implementations and concepts completed:
 
 - [ ] Sorting
     - [ ] Bubble
-    - [ ] Insertion
-    - [ ] Selection
+    - [x] Insertion
+    - [x] Selection
     - [ ] Quick
     - [ ] Merge
     - [ ] Radix
@@ -79,6 +79,8 @@ Implementations and concepts completed:
     - [ ] Binary
     
 - [ ] Trees
+  - [ ] Heap Sort
+  
 - [ ] Graphs
 - [ ] Recursion and Dynamic Programming
 - [ ] Tries
