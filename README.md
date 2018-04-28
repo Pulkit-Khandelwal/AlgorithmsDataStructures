@@ -74,14 +74,14 @@ Implementations and concepts completed:
     - [ ] Quick
     - [ ] Merge
     - [ ] Radix
+    - [ ] HeapSort
+    - [ ] Bucket
+    - [ ] Counting
     
 - [ ] Searching
     - [ ] Binary
     
-- [ ] Trees
-  - [ ] Heap Sort
-  
-- [ ] Graphs
+- [ ] Graphs and Trees
 - [ ] Recursion and Dynamic Programming
 - [ ] Tries
 
