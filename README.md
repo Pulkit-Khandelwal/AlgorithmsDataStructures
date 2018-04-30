@@ -71,7 +71,7 @@ Implementations and concepts completed:
     - [ ] Bubble
     - [x] Insertion
     - [x] Selection
-    - [ ] Quick
+    - [x] Quick (Efficient in-place recursive algorithm)
     - [ ] Merge
     - [ ] Radix
     - [ ] HeapSort
@@ -82,6 +82,8 @@ Implementations and concepts completed:
     - [ ] Binary
     
 - [ ] Graphs and Trees
+    - [x] Implement a Graph with nodes, edges (both directed and undirected) and weights
+
 - [ ] Recursion and Dynamic Programming
 - [ ] Tries
 
