@@ -68,15 +68,15 @@ Implementations and concepts completed:
 - [ ] Priority Queue
 
 - [ ] Sorting
-    - [ ] Bubble
+    - [x] Bubble
     - [x] Insertion
     - [x] Selection
     - [x] Quick (Efficient in-place recursive algorithm)
-    - [ ] Merge
-    - [ ] Radix
+    - [x] Merge
+    - [x] Radix
     - [ ] HeapSort
     - [ ] Bucket
-    - [ ] Counting
+    - [x] Counting
     
 - [ ] Searching
     - [ ] Binary
