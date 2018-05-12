@@ -75,14 +75,17 @@ Implementations and concepts completed:
     - [x] Merge
     - [x] Radix
     - [ ] HeapSort
-    - [ ] Bucket
+    - [x] Bucket
     - [x] Counting
     
 - [ ] Searching
     - [ ] Binary
     
-- [ ] Graphs and Trees
+- [ ] Graphs
     - [x] Implement a Graph with nodes, edges (both directed and undirected) and weights
+    
+- [ ] Trees
+    - [x] Implement a Binary Seacrh Tree using keys and data
 
 - [ ] Recursion and Dynamic Programming
 - [ ] Tries
