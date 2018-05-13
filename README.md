@@ -86,6 +86,8 @@ Implementations and concepts completed:
     
 - [ ] Trees
     - [x] Implement a Binary Seacrh Tree using keys and data
+    - [x] Depth and Breath Level Traversals:
+    
 
 - [ ] Recursion and Dynamic Programming
 - [ ] Tries
