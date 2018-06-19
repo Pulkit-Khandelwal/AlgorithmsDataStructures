@@ -92,3 +92,27 @@ Implementations and concepts completed:
 - [ ] Recursion and Dynamic Programming
 - [ ] Tries
 
+- [ ] Advanced Concepts Read and Videos Watched
+    - [x] Range Trees
+    - [x] Segment Trees
+    - [x] Splay Trees
+    - [x] 2-3 Trees
+    - [x] Balanced Binary Search Trees
+    - [x] AVL trees
+    - [x] k-d Trees
+    - [x] B Trees
+    - [x] Topological Sort
+    - [x] Tree Rotations
+    - [x] Tries
+    - [x] Suffix Arrays
+    - [x] Skip Lists
+    - [x] A star search
+    - [x] Binomial Heaps
+    - [x] Fibonacci Heaps
+    - [x] Red Black Trees
+    - [x] Priority Queues
+    - [x] Doubly Linked List
+    - [x] Circular Linked List
+
+
+
