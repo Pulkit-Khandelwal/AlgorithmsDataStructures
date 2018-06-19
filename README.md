@@ -14,6 +14,13 @@ General tips to keep in mind:
 * Always modularize your code. Ask if you can assume that boilerplate code has been provided or not. You can then go ahead and fill up the functions in your code.
 * The last step is to actually code the solution in Python by making sure you consider all test cases.
 
+** Main Subjects**
+- Algorithms and Data Structures
+- Pythonic Code
+- Design Patterns
+- Operating Systems (Hardware Software Course)
+- System Design
+- Linux SysAdmin
 
 Resources that I am using as of now:
 
@@ -32,6 +39,27 @@ Resources that I am using as of now:
 * HackerRank coding practice: To supplement the above point.
 
 * CTCI: For challenges after the above three steps are finished. To make things concrete. This should be the last step.
+
+* Great Blogs:
+- https://probablydance.com/
+- http://highscalability.com/
+- https://www.hiredintech.com/
+
+* YouTube Channels:
+Coding Tech
+Success in Tech
+CD Dojo
+HackerRank
+GeeksForGeeks
+Gaurav Sen (GKCS)
+Tushar Roy
+Iqbal
+Lucid Programming 
+Andrew 
+Andrew Fiset 
+Data Science Foundations 
+MyCodeSchool
+
 
 Implementations and concepts completed:
 - Understood the concept theoretically with proofs if possible.
