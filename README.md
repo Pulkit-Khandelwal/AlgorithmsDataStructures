@@ -14,7 +14,7 @@ General tips to keep in mind:
 * Always modularize your code. Ask if you can assume that boilerplate code has been provided or not. You can then go ahead and fill up the functions in your code.
 * The last step is to actually code the solution in Python by making sure you consider all test cases.
 
-** Main Subjects**
+*** Main Subjects ***
 - Algorithms and Data Structures
 - Pythonic Code
 - Design Patterns
