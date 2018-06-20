@@ -46,19 +46,18 @@ Resources that I am using as of now:
 - https://www.hiredintech.com/
 
 * YouTube Channels:
-Coding Tech
-Success in Tech
-CD Dojo
-HackerRank
-GeeksForGeeks
-Gaurav Sen (GKCS)
-Tushar Roy
-Iqbal
-Lucid Programming 
-Andrew 
-Andrew Fiset 
-Data Science Foundations 
-MyCodeSchool
+- Coding Tech
+- Success in Tech
+- CD Dojo
+- HackerRank
+- GeeksForGeeks
+- Gaurav Sen (GKCS)
+- Tushar Roy
+- Iqbal
+- Lucid Programming
+- Andrew Fiset 
+- Data Science Foundations 
+- MyCodeSchool
 
 
 Implementations and concepts completed:
