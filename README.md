@@ -38,12 +38,19 @@ Resources that I am using as of now:
 * Interview University Repo: To supplement the above point.
 * HackerRank coding practice: To supplement the above point.
 
+- Advanced:
+* LeetCode
+* Google CodeJam
+* Project Euler
+* SPOJ
+
 * CTCI: For challenges after the above three steps are finished. To make things concrete. This should be the last step.
 
 * Great Blogs:
 - https://probablydance.com/
 - http://highscalability.com/
 - https://www.hiredintech.com/
+- Gainlo
 
 * YouTube Channels:
 - Coding Tech
