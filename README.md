@@ -51,6 +51,7 @@ Resources that I am using as of now:
 - http://highscalability.com/
 - https://www.hiredintech.com/
 - Gainlo
+- https://www.byte-by-byte.com/
 
 * YouTube Channels:
 - Coding Tech
