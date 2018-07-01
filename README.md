@@ -53,6 +53,14 @@ Resources that I am using as of now:
 - Gainlo
 - https://www.byte-by-byte.com/
 
+* Short blogs for advice:
+- http://steve-yegge.blogspot.com/
+- https://sites.google.com/site/steveyegge2/five-essential-phone-screen-questions
+- http://alexbowe.com/design-pattern-flash-cards/
+- http://matt.might.net/articles/what-cs-majors-should-know/
+- http://www.profshonle.com/2010/08/ten-things-every-computer-science-major.html
+
+
 * YouTube Channels:
 - Coding Tech
 - Success in Tech
