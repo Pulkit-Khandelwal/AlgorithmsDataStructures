@@ -1,0 +1,27 @@
+x,y,z
+
+matrixtemp->threeDmatrix = (float ***) calloc((unsigned) iNx,sizeof(float**) );
+
+int i,j,k;
+  for (i = 0; i< iNx; i++) {
+
+   matrixtemp->threeDmatrix[i] = (float **) calloc((unsigned) iNy,sizeof(float*) );
+
+    for (j = 0; j < iNy; j++) {
+
+        matrixtemp->threeDmatrix[i][j] = (float *) calloc((unsigned) iNz ,sizeof(float) );
+    }
+  }
+
+
+  int ii, jj;
+  for (ii = 0; ii < iNx; ii++)
+  {
+    for (jj = 0; jj < iNy; jj++)
+    {
+      free((float *) (matrixtemp.threeDmatrix[ii][jj]));
+    }
+    free((float **) (matrixtemp.threeDmatrix[ii]));
+  }
+
+  free((float ***) (matrixtemp.threeDmatrix));
