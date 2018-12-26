@@ -35,6 +35,7 @@ Resources that I am using as of now:
 * HackerRank Gayle's videos: This set of videos gave me an idea of how to approach the problems as discussed above in the tips section and the level of questions one can expect in an interview.
 
 * Interactive Coding Challenges in Python: To make sure each data structure and algorithm is implemented from scratch.
+https://github.com/MisterBooo/LeetCodeAnimation
 * Interview University Repo: To supplement the above point.
 * HackerRank coding practice: To supplement the above point.
 
