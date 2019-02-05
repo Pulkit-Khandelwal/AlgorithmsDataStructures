@@ -32,6 +32,8 @@ Resources that I am using as of now:
 
 * CLRS: To understand the concepts clearly with proofs. I also get to see the pseudo code here. That way I can then go forward.
 
+* Data Structures Visualization: https://www.cs.usfca.edu/~galles/visualization/Algorithms.html
+
 * HackerRank Gayle's videos: This set of videos gave me an idea of how to approach the problems as discussed above in the tips section and the level of questions one can expect in an interview.
 
 * Interactive Coding Challenges in Python: To make sure each data structure and algorithm is implemented from scratch.
